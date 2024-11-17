@@ -35,6 +35,7 @@ namespace Tyuiu.VlasenkoDA.Sprint2.Task0.V7
             {
                 Console.WriteLine($"Операция {i + 1}: {result[i]}");
             }
+
             Console.WriteLine("***********************************************************************************");
             Console.ReadLine();
         }
